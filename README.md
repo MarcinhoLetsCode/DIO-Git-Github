@@ -12,8 +12,13 @@ Repositorios para armazenar resumo sobre o curso de git github da [DIO](https://
 | Aulas | Resumos |
 |-------|---------|
 | Primeiros Passos |[Resumo]()|
+| Aula 1 |[Resumo]()|
+| Aula 2 |[Resumo]()|
 
 
 ```
 Git Init
+```
+```
+Git Editor Pressionar '.'
 ```
